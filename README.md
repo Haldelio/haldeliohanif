@@ -13,8 +13,8 @@
 - B.Sc., State University of Padang, Indonesia
   - Study program of Geography, minor Physical Geography
 
-## Researcher Scholar
-* Researc Scholars. Center Earth Observation Technology for Agriculture, Department of Geography. (_2025_). Mahasarakham University, Thailand.
+## Researche Scholar
+* Research Scholars. Center Earth Observation Technology for Agriculture, Department of Geography. (_2025_). Mahasarakham University, Thailand.
   
 ## Activities
 - 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Filed of Science and Technology STEM, by GS Khon Kaen University.
