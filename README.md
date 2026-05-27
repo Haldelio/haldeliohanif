@@ -8,9 +8,9 @@
 
 - Ph.D., Khon Kaen University, Thailand (_2025-Now_)
   - Study program of Geoinformatics
-- M.Sc., Khon Kaen University, Thailand (_2022-2024_)
+- M.Sc., Khon Kaen University, Thailand
   - Study program of Geoinformatics 
-- B.Sc., State University of Padang, Indonesia (_2011-2016_)
+- B.Sc., State University of Padang, Indonesia
   - Study program of Geography, specific in Physical Geography
 
 ## Researcher Scholar
