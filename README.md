@@ -1,1 +1,1 @@
-# Muhammadhanif
+Currently, he focuses on research involving Synthetic Aperture Radar (SAR) remote sensing and Geospatial Artificial Intelligence (Geo-AI) for Earth observation and geohazard analysis and modelling. His research specifically investigates phenomena such as crustal deformation, volcanic deformation within the field of volcanology, seismic processes in seismology, and a range of natural hazard events. He is also open for research collaboration in related fields.
