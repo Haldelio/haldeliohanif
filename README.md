@@ -43,5 +43,5 @@
 * International Conference of Geoscience and Remote Sensing Technology. *Oral Presentator*. 2024. Padang, Indonesia.
 * EEAT (Environmental Engineering Association of Thailand). *Oral Presentator*. [(2023)](https://www.eeat.or.th/index.php/eeat-conference) Pattya, Thailand.
 * Indonesian Volcano Activity Monitoring and Management, 2023. (ITB, Indonesia).
-* International Geoinformatics Summer School. *Online* 2022. [(2023)](https://liesmars.whu.edu.cn/) Wuhan University, China. 
+* International Geoinformatics Summer School. *Online* [(2022)](https://liesmars.whu.edu.cn/) Wuhan University, China. 
 
