@@ -13,18 +13,36 @@
 - B.Sc., State University of Padang, Indonesia (_2011-2016_)
   - Study program of Geography, specific in Physical Geography
 
+## Researcher Scholar
+* Research Scholars. Center Earth Observation Technology for Agriculture, Department of Geography. (_2025_). Mahasarakham University, Thailand.
+  
 ## Activities
 - 6 January 2026 // I am happy to announce that I'm selected as Silver Category The Outstanding Thesis Award 2025 Filed of Science and Technology STEM
 
-## Publications (_2022-Latest_)
-
-*   Machine Learning-Based Leaf Silica Content Estimation From Hyperspectral Reflectance.[(2026)](https://link.springer.com/article/10.1007/s40003-026-00988-2)
-*   Non-destructive estimation of chlorophyll content in wasabi (Eutrema japonicum) leaves using spectral reflectance and deep learning models.[(2026)](https://www.sciencedirect.com/science/article/pii/S0889157526000621)
-*   Spatiotemporal variability of leaf functional traits in central European floodplain forests: integrating in-situ, hyperspectral, and Sentinel-2 data with RTM, PLSR, and neural networks.[(2026)]
-
+## Degree Research
+* Master Degree Thesis. Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335)
+  
+## Publications (_2021-Latest_)
+* Weed classification in sugarcane fields in Northeast Thailand from multi-temporal Sentinel-1 and Sentinel-2 data together with random forest algorithm. [(2025)](https://doi.org/10.1016/j.srs.2025.100352)
+* Evaluation of Flood Susceptibility Mapping in Kedah With AHP and GIS: A Case Study Of Kota Setar And Padang Terap, Kedah Malaysia. [(2025)](https://doi.org/10.21837/pm.v23i36.1706)
+* Surface Deformation Monitoring and Forecasting of Sinabung Volcano Using Interferometry Synthetic Aperture Radar and Forest-based Algorithm. [(2024)](https://doi.org/10.1016/j.rsase.2024.101288)
+* The Quantifying Crustal Deformation Caused by the Cianjur Tectonic Earthquakes Magnitude 5.6 through InSAR and GNSS Technology. [(2024)](https://ph01.tci-thaijo.org/index.php/bestjournal/article/view/256321)
+* Multi-Temporal InSAR analysis for monitoring the ground deformation of Mount Sinabung. [(2024)](https://apst.kku.ac.th/multi-temporal-insar-analysis-for-monitoring-the-ground-deformation-of-mount-sinabung/)
+* Clustering and Forecasting Vertical Ground Deformation of Sinabung Volcano Based on Deformation Dataset and Holt-Winters Exponential Smoothing Method.[(2024)](https://doi.org/10.1007/978-981-95-3075-5_5)
+* Vertical Ground Deformation Monitoring of the Sinabung Volcano in 2021-2022 using Sentinel-1 and DInSAR. [(2023)](https://www.researchgate.net/publication/370923332_Vertical_Ground_Deformation_Monitoring_of_the_Sinabung_Volcano_in_2021-2022_using_Sentinel-1_and_DInSAR)
+* Rapid Monitoring for Flood Inundation Detection-Based Sentinel-1 SAR Image Data and Exposure Assessment in Urban Building Area: Makassar City, Indonesia. [(2024)](https://doi.org/10.1007/978-981-97-0740-9_56)
+* Spatial Assessment Impact of Tsunami Hazard on the Transportation Infrastructure in Phuket South of Thailand. [(2022)](https://doi.org/10.1007/978-981-19-9768-6_52)
+* Trends in rainfall and hydrometeorological disasters in new capital city of Indonesia from long-term satellite-based precipitation products. [(2022)](https://doi.org/10.1016/j.rsase.2022.100827)
+* Spatial modeling of tidal flood due to the fishpond to tidal waves in Bengkalis, Indonesia.  [(2022)](https://doi.org/10.1007/978-981-19-0308-3_72)
+* Impact of coastal flood on building, infrastructure, and community adaptation in Bukit Bestari Tanjungpinang. [(2021)](https://ejournal.upi.edu/index.php/gea/article/view/38911)
+  
 ## Conference Presentations and Training (_2022-Latest_)
+* Advanced Earthquake Hazard Analysis & Engineering Applications, 2026. (Geo-course).
+* Basic Earthquake Risk Analysis (PSHA) & Hazard Mapping, 2026. (Geo-course).
+* International Conference of Geoscience and Remote Sensing Technology. *Moderator for Keynote Speaker*. 2025. Padang, Indonesia.
+* Machine Learning for Disasters Management, 2025. (IEEE GRSS).
+* International Conference of Geoscience and Remote Sensing Technology. *Oral Presentator*. 2024. Padang, Indonesia.
+* EEAT (Environmental Engineering Association of Thailand). *Oral Presentator*. [(2023)](https://www.eeat.or.th/index.php/eeat-conference) Pattya, Thailand.
+* Indonesian Volcano Activity Monitoring and Management, 2023. (ITB, Indonesia).
+* International Geoinformatics Summer School. *Online* 2022. [(2023)](https://liesmars.whu.edu.cn/) Wuhan University, China. 
 
-*   3rd Workhsop on International Cooperation in Spaceborne Imaging Spectroscopy, ESA Hyperspectral,*Poster Presentator*.[(2024)](https://hyperspectral2024.esa.int/)
-*   Training in 3D Discrete Anisotropic Radiative Transfer (DART), 9 & 10 September 2024 by the Remote Sensing Research Group (RSRG) of the Department of Geography at the University of Bonn.
-*   13th EARSeL Workshop on Imaging Spectroscopy in València, *Poster Presentator*.[(2024)](https://is.earsel.org/workshop/13-IS-Valencia2024/)
-*   International Geoscience and Remote Sensing Symposium (IGARSS 2022), *Oral Presentator*.[(2022)](https://www.igarss2022.org/)
