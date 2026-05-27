@@ -11,7 +11,7 @@
 - M.Sc., Khon Kaen University, Thailand
   - Study program of Geoinformatics 
 - B.Sc., State University of Padang, Indonesia
-  - Study program of Geography, specific in Physical Geography
+  - Study program of Geography, minor Physical Geography
 
 ## Researcher Scholar
 * Research Scholars. Center Earth Observation Technology for Agriculture, Department of Geography. (_2025_). Mahasarakham University, Thailand.
