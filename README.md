@@ -14,11 +14,11 @@
   - Study program of Geography, consentration in Physical Geography
 
 ## Research Scholar
-* Research Scholar. Center Earth Observation Technology for Agriculture, Department of Geography. (_2025_). Mahasarakham University, Thailand.
+* Research Scholar. Earth Observation Technologies (EOT) for Land and Agricultural Development. [(_2025_)](https://human.msu.ac.th/eot/). Mahasarakham University, Thailand.
   
 ## Activitiy
 - 6 January 2026 // I am happy to announce that I'm selected as Silver Category Award, The Outstanding Thesis 2025, Filed of Science and Technology STEM, by GS Khon Kaen University.
-- 10 March 2025// I am happy to announce that I was accepted to join the official research team with a contract agreement at the Department of Geography, Mahasrakam University, for the period March-November 2025.
+- 10 March 2025// I am happy to announce that I was accepted to join the official research team with a contract agreement at EOT research unite at the Department of Geography, Mahasrakam University, for the period March-November 2025.
 
 ## Degree Research
 * Master Degree Thesis Research. Potential of Ground Deformation Monitoring and Trend Analysis of Sinabung Volcano Using DInSAR and Geo-AI. [(2024)](https://kkuir.kku.ac.th/jspui/handle/123456789/39335)
